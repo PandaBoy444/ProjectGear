@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"north": "crossroads:blocks/arcane_reflector_out",
+		"south": "crossroads:blocks/arcane_reflector_back",
+		"east": "crossroads:blocks/arcane_reflector_east",
+		"west": "crossroads:blocks/arcane_reflector_west",
+		"up": "crossroads:blocks/arcane_reflector_up",
+		"down": "crossroads:blocks/arcane_reflector_down",
+		"particle": "crossroads:blocks/arcane_reflector_up"
+	}
+}
